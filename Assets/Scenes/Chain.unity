@@ -1859,10 +1859,10 @@ HingeJoint:
   m_AutoConfigureConnectedAnchor: 1
   m_ConnectedAnchor: {x: 0.000000052293764, y: -0.0025000097, z: -0.00000001974404}
   serializedVersion: 2
-  m_UseSpring: 0
+  m_UseSpring: 1
   m_Spring:
-    spring: 0
-    damper: 0
+    spring: 1000
+    damper: 5
     targetPosition: 0
   m_UseMotor: 0
   m_Motor:
@@ -2308,10 +2308,10 @@ HingeJoint:
   m_AutoConfigureConnectedAnchor: 1
   m_ConnectedAnchor: {x: -0.00000004298054, y: -0.0025000172, z: -0.00000009313226}
   serializedVersion: 2
-  m_UseSpring: 0
+  m_UseSpring: 1
   m_Spring:
-    spring: 0
-    damper: 0
+    spring: 1000
+    damper: 5
     targetPosition: 0
   m_UseMotor: 0
   m_Motor:
@@ -2984,10 +2984,10 @@ HingeJoint:
   m_AutoConfigureConnectedAnchor: 1
   m_ConnectedAnchor: {x: 0.00000004195608, y: -0.0025000076, z: -0.000000040978193}
   serializedVersion: 2
-  m_UseSpring: 0
+  m_UseSpring: 1
   m_Spring:
-    spring: 0
-    damper: 0
+    spring: 1000
+    damper: 5
     targetPosition: 0
   m_UseMotor: 0
   m_Motor:
@@ -3658,10 +3658,10 @@ HingeJoint:
   m_AutoConfigureConnectedAnchor: 1
   m_ConnectedAnchor: {x: 0.000000034971162, y: -0.002500032, z: -0.00000001974404}
   serializedVersion: 2
-  m_UseSpring: 0
+  m_UseSpring: 1
   m_Spring:
-    spring: 0
-    damper: 0
+    spring: 1000
+    damper: 5
     targetPosition: 0
   m_UseMotor: 0
   m_Motor:
@@ -4240,10 +4240,10 @@ HingeJoint:
   m_AutoConfigureConnectedAnchor: 1
   m_ConnectedAnchor: {x: -0.00000004298054, y: -0.0025000283, z: -0.00000008419156}
   serializedVersion: 2
-  m_UseSpring: 0
+  m_UseSpring: 1
   m_Spring:
-    spring: 0
-    damper: 0
+    spring: 1000
+    damper: 5
     targetPosition: 0
   m_UseMotor: 0
   m_Motor:
@@ -4691,10 +4691,10 @@ HingeJoint:
   m_AutoConfigureConnectedAnchor: 1
   m_ConnectedAnchor: {x: -0.00000004298054, y: -0.0025000172, z: -0.00000009313226}
   serializedVersion: 2
-  m_UseSpring: 0
+  m_UseSpring: 1
   m_Spring:
-    spring: 0
-    damper: 0
+    spring: 1000
+    damper: 5
     targetPosition: 0
   m_UseMotor: 0
   m_Motor:
@@ -5059,10 +5059,10 @@ HingeJoint:
   m_AutoConfigureConnectedAnchor: 1
   m_ConnectedAnchor: {x: -0.038794637, y: 0.18285099, z: 0.7373331}
   serializedVersion: 2
-  m_UseSpring: 0
+  m_UseSpring: 1
   m_Spring:
-    spring: 0
-    damper: 0
+    spring: 1000
+    damper: 5
     targetPosition: 0
   m_UseMotor: 0
   m_Motor:
@@ -5374,10 +5374,10 @@ HingeJoint:
   m_AutoConfigureConnectedAnchor: 1
   m_ConnectedAnchor: {x: 0.00000006961636, y: -0.0024999874, z: -0.00000001974404}
   serializedVersion: 2
-  m_UseSpring: 0
+  m_UseSpring: 1
   m_Spring:
-    spring: 0
-    damper: 0
+    spring: 1000
+    damper: 5
     targetPosition: 0
   m_UseMotor: 0
   m_Motor:
@@ -5690,10 +5690,10 @@ HingeJoint:
   m_AutoConfigureConnectedAnchor: 1
   m_ConnectedAnchor: {x: 7.3348184, y: -1.8807802, z: -18.592522}
   serializedVersion: 2
-  m_UseSpring: 0
+  m_UseSpring: 1
   m_Spring:
-    spring: 0
-    damper: 0
+    spring: 1000
+    damper: 5
     targetPosition: 0
   m_UseMotor: 0
   m_Motor:
